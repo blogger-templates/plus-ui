@@ -95,7 +95,7 @@ Explore full documentation for customizing and managing the template:
 - 🏷️ Blogger Labels & SEO optimization
 - 🌍 Add language selector or navbar
 
-📚 **Visit the docs**: [https://yourdomain.com/docs/plus-ui](https://yourdomain.com/docs/plus-ui)
+📚 **Visit the docs**: [https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html](https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html)
 
 ---
 
@@ -157,7 +157,7 @@ Want to contribute or suggest improvements?
 - Fork the repo
 - Create a new branch (`feature/your-feature`)
 - Submit a pull request
-- Or open an [Issue](https://github.com/yourusername/plus-ui/issues)
+- Or open an [Issue](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues)
 
 We welcome contributions, feature suggestions, or language translations.
 
@@ -181,10 +181,10 @@ A: Yes. The layout supports thumbnails, titles, descriptions, and post metadata 
 
 ## 🔗 Useful Links
 
-- [Live Demo](https://yourdomain.com/plus-ui-demo)
-- [Download Now]([[https://yourdomain.com/download/plus-ui-v3.2.0.xml](https://raw.githubusercontent.com/blogger-templates/Plus-UI-V3.2.0/main/plus-ui.xml)](https://raw.githubusercontent.com/blogger-templates/Plus-UI-V3.2.0/main/plus-ui.xml))
-- [Documentation](https://yourdomain.com/docs/plus-ui)
-- [GitHub Issues](https://github.com/yourusername/plus-ui/issues)
+- [Live Demo](https://plus-ul.blogspot.com/)
+- [Download Now](https://raw.githubusercontent.com/blogger-templates/Plus-UI-V3.2.0/main/plus-ui.xml)
+- [Documentation](https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html)
+- [GitHub Issues](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues)
 
 ---
 
