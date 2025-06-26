@@ -60,17 +60,10 @@ Whether you’re running a **movie blog**, **tech blog**, **personal site**, or 
 - **Size**: ~50KB
 - **Last Updated**: June 2025
 - **License**: Free to use (MIT License)
-- **Direct Download**: [Click here to download](https://yourdomain.com/download/plus-ui-v3.2.0.xml)
+- **Direct Download**: [Click here to download](https://t.me/Blogger_Templates_Updated/11)
 
 ---
 
-## 📸 Screenshots Preview
-
-| Home Page | Post Page | Dark Mode |
-|-----------|-----------|-----------|
-| ![Home](https://yourdomain.com/images/home.jpg) | ![Post](https://yourdomain.com/images/post.jpg) | ![Dark](https://yourdomain.com/images/dark.jpg) |
-
----
 
 ## 🛠️ Installation Guide (Blogger)
 
