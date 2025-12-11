@@ -91,7 +91,7 @@ Blogger limits the data sent to the homepage for speed. If your posts have large
 1.  Open your post in the Blogger Editor.
 2.  Place your cursor after the first paragraph or image.
 3.  Click the **"Insert Jump Break"** icon (looks like a broken line `---`) in the toolbar.
-    * *Or in HTML view, simply add `` tag.*
+    * *Or in HTML view, simply add `<!--more-->` tag.*
 4.  Update the post. This forces Blogger to create a "Read More" button and fixes the homepage layout.
 
 ### **Q: Is this template AdSense friendly?**
