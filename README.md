@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Plus UI – The Ultimate SEO Blogger Template
+# ⚡ Plus UI – The Ultimate Blogger Template
 ### Professional, Fast, and Monetization-Ready Theme for 2025
 
 [![Version](https://img.shields.io/badge/Version-v3.2.0-blue?style=flat&logo=semver)](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases)
