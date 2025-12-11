@@ -1,134 +1,132 @@
 <div align="center">
 
-# ⚡ Plus UI – Premium Blogger Template
-### The Ultimate Solution for Professional Publishing
+# ⚡ Plus UI – The Ultimate SEO Blogger Template
+### Professional, Fast, and Monetization-Ready Theme for 2025
 
-[![Blogger](https://img.shields.io/badge/Platform-Blogger-orange?style=flat&logo=blogger)](https://www.blogger.com)
-[![Version](https://img.shields.io/badge/Version-v3.2.0-blue?style=flat)](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram)](https://t.me/Blogger_Templates_Updated)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-2CA5E0?style=flat&logo=telegram)](https://t.me/Plus_UI_Official)
+[![Version](https://img.shields.io/badge/Version-v3.2.0-blue?style=flat&logo=semver)](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases)
+[![Platform](https://img.shields.io/badge/Platform-Blogger-orange?style=flat&logo=blogger)](https://www.blogger.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=flat&logo=telegram)](https://t.me/Blogger_Templates_Updated)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Support-2CA5E0?style=flat&logo=telegram)](https://t.me/Plus_UI_Official)
 
-[Live Demo](https://plus-ul.blogspot.com/) • [Download](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases) • [Documentation](https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html) • [Report Bug](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues)
+[Live Demo](https://plus-ul.blogspot.com/) • [Download Latest](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases) • [Documentation](https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html) • [Report Issue](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues)
 
 </div>
 
 ---
 
-## 📖 About Plus UI
-**Plus UI** is a cutting-edge, open-source Blogger theme designed for speed, SEO, and flexibility. Unlike traditional themes, Plus UI integrates **Hybrid AMP**, **PWA (Progressive Web App)** capabilities, and a **Safelink system** directly into the core.
+## 📖 Overview
+**Plus UI** is a next-generation, open-source Blogger template engineered for **Core Web Vitals**, **High CTR**, and **Maximum SEO Performance**. Unlike standard themes, Plus UI allows you to build a professional news, tech, or portfolio site without needing to touch a single line of code.
 
-Built for **developers** who want full control, it utilizes a modular widget-based settings system, meaning you can configure almost everything from the Blogger Layout menu without touching code.
+It features a unique **Hybrid AMP** engine, built-in **PWA (Progressive Web App)** support, and advanced monetization tools like **Safelink** and **Anti-AdBlock** scripts directly in the XML core.
 
 ---
 
 ## 🚀 Key Features
 
-### ⚡ **Core Performance**
-* **Hybrid AMP & Non-AMP:** Automatically serves the best version based on user device and settings.
-* **Lighthouse Optimized:** Consistently scores 90-100 on PageSpeed Insights.
-* **Native Lazy Loading:** Optimized handling for images, iframes, and YouTube embeds.
-* **PWA Ready:** Built-in manifest and service worker logic for "Add to Home Screen" functionality.
+### ⚡ **Extreme Performance**
+* **Hybrid Framework:** Automatically serves AMP or Non-AMP versions based on device and settings.
+* **Lighthouse Optimized:** Achieves 95-100 Speed Scores on mobile and desktop.
+* **Smart Lazy Loading:** Native browser-level lazy loading for images, YouTube iframes, and AdSense.
+* **App-Like Experience:** Built-in **PWA** manifest allows users to install your blog as an app.
 
-### 🎨 **Design & UI**
-* **System/Toggle Dark Mode:** Auto-detects OS preference with a manual toggle switch.
-* **Tailwind-like Utility Classes:** Custom CSS variables for easy styling.
-* **Responsive Layout:** Mobile-first architecture that scales from phones to 4K screens.
-* **Infinite Scroll / Pagination:** Switch between Numbered, Load More, or Infinite Scroll.
+### 🛠️ **Advanced Publisher Tools**
+* **🛡️ Safelink System:** Secure encrypted redirection with countdown timers (Perfect for download sites).
+* **🚫 Anti-AdBlocker:** Non-intrusive popup that recovers lost revenue by asking users to whitelist your site.
+* **🚧 Maintenance Mode:** Switch your site offline with a custom "Coming Soon" page via Layout settings.
+* **🍪 GDPR Cookie Consent:** Fully compliant consent bar enabled by default.
 
-### 🛠️ **Advanced Tools (Built-in)**
-* **🛡️ Safelink System:** Integrated encrypted link redirection with countdown timer (Great for download sites).
-* **🚫 Anti-AdBlock:** Gentle popup asking users to disable ad blockers.
-* **🚧 Maintenance Mode:** Switch the site offline with a custom "Coming Soon" screen via Layout.
-* **🍪 Cookie Consent:** GDPR compliant popup out of the box.
+### 🎨 **Modern Design & UI**
+* **Dark Mode 2.0:** System-aware toggle that remembers user preferences.
+* **Tailwind-Style CSS:** Utility classes for easy customization of buttons, alerts, and grids.
+* **Responsive Mega Menu:** Mobile-first navigation that works flawlessly on all screen sizes.
 
 ---
 
 ## 🔮 Roadmap: Coming in v3.7.0
-We are actively working on the next major update. Here is a sneak peek at what's coming:
+The next major update focuses on stability, advanced monetization, and UX improvements:
 
-- [ ] **Core Web Vitals Rewrite:** Complete CSS overhaul to minimize Cumulative Layout Shift (CLS).
-- [ ] **New Hero Headers:** 3 new styles for the homepage feature section.
-- [ ] **Mega Menu:** Native support for dropdown mega menus without complex HTML.
-- [ ] **Comment System v2:** Improved support for Disqus and Facebook comments integration.
-- [ ] **Auto-TOC:** Enhanced Table of Contents that auto-generates from H2/H3 tags.
+- [ ] **Advanced SEO:** Separate title tags implemented for the home page.
+- [ ] **Monetization Pro:** Multi-page SafeLink (Advanced) & updated Adslinkfly script.
+- [ ] **Core Stability:** Fixed middle post ads rendering & added Blog status codes 🧩.
+- [ ] **Performance:** Fully stable PWA (Progressive Web App) ⚡ implementation.
+- [ ] **UX Enhancements:** Improved Lightbox 🖼️ and expanded SafeLink configuration options.
 
-> **ETA:** Late 2025. Stay tuned!
+> **ETA:** Coming Soon. Join our [Telegram Channel](https://t.me/Blogger_Templates_Updated) for updates.
 
 ---
 
 ## 🛠️ Installation Guide
 
-You can install the theme using the standard upload method or the manual HTML replacement method.
+You can install Plus UI using the standard upload method or the manual HTML method (recommended for a clean install).
 
-### Option 1: Upload (Easiest)
-1. Download the `.xml` file from the [Releases Page](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases).
-2. Go to **Blogger Dashboard** → **Theme**.
-3. Click the **▼** arrow next to Customize.
-4. Select **Restore** → **Upload** → Select `plus-ui-v3.2.0.xml`.
+### Option 1: Standard Upload (Easiest)
+1.  Download the latest `.xml` file from the [Releases Section](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases).
+2.  Go to **Blogger Dashboard** → **Theme**.
+3.  Click the **▼** arrow next to the "Customize" button.
+4.  Select **Restore** → **Upload**.
+5.  Select the `plus-ui-v3.2.0.xml` file.
 
-### Option 2: Manual HTML Replacement (Recommended for Clean Install)
-If the upload method fails, use this method to ensure no old code remains.
+### Option 2: Manual HTML Replacement (Recommended)
+Use this method if the upload fails or to ensure no legacy code remains from your previous theme.
 
-1. Open the downloaded `plus-ui-v3.2.0.xml` file in a text editor (Notepad, VS Code, etc.).
-2. Select all code (`Ctrl + A`) and copy it (`Ctrl + C`).
-3. Go to **Blogger Dashboard** → **Theme**.
-4. Click the **▼** arrow next to Customize and select **Edit HTML**.
-5. Click anywhere inside the code editor and select all (`Ctrl + A`).
-6. Press `Delete` to remove the old code completely.
-7. Paste the copied code (`Ctrl + V`) into the editor.
-8. Click the **Save** (Floppy Disk icon) button top right.
+1.  Open the downloaded `plus-ui-v3.2.0.xml` file in a text editor (Notepad, VS Code, etc.).
+2.  **Select All** (`Ctrl + A`) and **Copy** (`Ctrl + C`) the entire code.
+3.  Go to **Blogger Dashboard** → **Theme**.
+4.  Click the **▼** arrow next to "Customize" and select **Edit HTML**.
+5.  Click inside the code editor, **Select All** (`Ctrl + A`), and press **Delete**.
+6.  **Paste** (`Ctrl + V`) the new Plus UI code into the empty editor.
+7.  Click the **Save** icon (Floppy Disk) in the top right corner.
 
 ---
 
 ## 🙋 Frequently Asked Questions (FAQ)
 
 ### **Q: Why are my posts not showing on the Home Page?**
-**A: This happens because your post content is too "heavy" for Blogger's auto-pagination.**
+**A: This usually happens because your post content is too large for Blogger's auto-pagination.**
 
-Blogger has a limit on the amount of data it fetches for the homepage. If your posts contain large images, lots of text, or scripts in the very first section, Blogger might only load 1 or 2 posts (or none at all) to keep the page load speed fast.
+Blogger limits the data sent to the homepage for speed. If your posts have large images or long text at the very top, Blogger may hide them to prevent slow loading.
 
 **✅ The Fix: Use the Jump Break**
-You must tell Blogger where to "cut off" the preview.
-1. Open your post in the **Blogger Editor**.
-2. Place your cursor after the first paragraph or image.
-3. Click the **"Insert Jump Break"** icon (it looks like a broken line `---`).
-   - *Alternatively*, in HTML view, type `` manually.
-4. Update the post.
+1.  Open your post in the Blogger Editor.
+2.  Place your cursor after the first paragraph or image.
+3.  Click the **"Insert Jump Break"** icon (looks like a broken line `---`) in the toolbar.
+    * *Or in HTML view, simply add `` tag.*
+4.  Update the post. This forces Blogger to create a "Read More" button and fixes the homepage layout.
 
-This ensures Blogger only loads the summary on the homepage, allowing all your posts to appear correctly.
+### **Q: Is this template AdSense friendly?**
+**A:** Yes! It includes specific locations for **In-Feed Ads**, **Article Top/Bottom Ads**, and **Sticky Sidebar Ads** to maximize CTR and RPM.
 
-### **Q: Is this template compatible with mobile phones?**
-**A:** Yes! Plus UI is fully responsive and mobile-first.
-
-### **Q: Can I monetize this with AdSense?**
-**A:** Absolutely. It includes optimized slots for In-Feed, Article Top/Bottom, and Sticky Sidebar ads.
+### **Q: How do I change the menu links?**
+**A:** Go to **Blogger Layout**. All menus (Main Menu, Mobile Menu, Footer Menu) are managed via standard **LinkList Widgets**. No coding required.
 
 ---
 
-## 🧩 Shortcodes
-Plus UI supports shortcodes inside your posts to create rich content elements:
+## 🧩 Shortcodes & Typography
+Enhance your posts using these built-in classes:
 
-| Feature | Shortcode / Class | Description |
+| Element | HTML Class / Shortcode | Preview |
 | :--- | :--- | :--- |
-| **Buttons** | `<a class="button">Link</a>` | Standard theme button |
-| **Download** | `<div class="dlBox">...</div>` | Styled download box |
-| **Alerts** | `<div class="alert info">Msg</div>` | Info, Success, Warning, Error alerts |
-| **Code** | `<pre><code>...</code></pre>` | Auto syntax highlighting |
-| **Spoiler** | `<details class="sp">...</details>` | Collapsible spoiler text |
+| **Download Box** | `<div class="dlBox">...</div>` | [Download Button] |
+| **Buttons** | `<a class="button">Link</a>` | [Button] |
+| **Alert Info** | `<div class="alert info">...</div>` | 🔵 Info Box |
+| **Alert Success** | `<div class="alert success">...</div>` | 🟢 Success Box |
+| **Alert Warning** | `<div class="alert warning">...</div>` | 🟡 Warning Box |
+| **Code Block** | `<pre><code>...</code></pre>` | Syntax Highlighting |
+| **Spoiler** | `<details class="sp">...</details>` | Click to Reveal |
 
 ---
 
 ## 🤝 Community & Support
 
-Join our community to get help, suggest features, or download updates.
+Stay connected for updates, bug fixes, and premium support.
 
 * 📢 **Telegram Channel (Updates):** [t.me/Blogger_Templates_Updated](https://t.me/Blogger_Templates_Updated)
-* 👥 **Telegram Group (Support):** [t.me/Plus_UI_Official](https://t.me/Plus_UI_Official)
+* 👥 **Telegram Group (Community):** [t.me/Plus_UI_Official](https://t.me/Plus_UI_Official)
 * 🐛 **Report a Bug:** [GitHub Issues](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues)
 
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by Fineshop Design</sub>
+  <sub>Developed with ❤️ by Fineshop Design</sub>
 </div>
