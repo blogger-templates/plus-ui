@@ -5,8 +5,9 @@
 
 [![Blogger](https://img.shields.io/badge/Platform-Blogger-orange?style=flat&logo=blogger)](https://www.blogger.com)
 [![Version](https://img.shields.io/badge/Version-v3.2.0-blue?style=flat)](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram)](https://t.me/Blogger_Templates_Updated)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-2CA5E0?style=flat&logo=telegram)](https://t.me/Plus_UI_Official)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
-[![Size](https://img.shields.io/badge/Size-~50KB-yellow?style=flat)]()
 
 [Live Demo](https://plus-ul.blogspot.com/) • [Download](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases) • [Documentation](https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html) • [Report Bug](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues)
 
@@ -118,13 +119,13 @@ Plus UI supports shortcodes inside your posts to create rich content elements:
 
 ---
 
-## 🤝 Contributing & Support
+## 🤝 Community & Support
 
-This project is maintained by **Deo Kumar**.
+Join our community to get help, suggest features, or download updates.
 
-* **Found a bug?** Open an [Issue](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues).
-* **Want to contribute?** Fork the repo and submit a Pull Request.
-* **Need Help?** Check the [Documentation](https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html).
+* 📢 **Telegram Channel (Updates):** [t.me/Blogger_Templates_Updated](https://t.me/Blogger_Templates_Updated)
+* 👥 **Telegram Group (Support):** [t.me/Plus_UI_Official](https://t.me/Plus_UI_Official)
+* 🐛 **Report a Bug:** [GitHub Issues](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues)
 
 ---
 
