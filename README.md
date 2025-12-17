@@ -3,13 +3,13 @@
 # ⚡ Plus UI – The Ultimate Blogger Template
 ### Professional, Fast, and Monetization-Ready Theme for 2025
 
-[![Version](https://img.shields.io/badge/Version-v3.2.0-blue?style=flat&logo=semver)](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases)
+[![Version](https://img.shields.io/badge/Version-v3.7.0-blue?style=flat&logo=semver)](https://github.com/blogger-templates/plus-ui/releases)
 [![Platform](https://img.shields.io/badge/Platform-Blogger-orange?style=flat&logo=blogger)](https://www.blogger.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=flat&logo=telegram)](https://t.me/Blogger_Templates_Updated)
 [![Telegram Group](https://img.shields.io/badge/Telegram-Support-2CA5E0?style=flat&logo=telegram)](https://t.me/Plus_UI_Official)
 
-[Live Demo](https://plus-ul.blogspot.com/) • [Download Latest](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases) • [Documentation](https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html) • [Report Issue](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues)
+[Live Demo](https://plus-ul.blogspot.com/) • [Download Latest](https://github.com/blogger-templates/plus-ui/releases) • [Documentation](https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html) • [Report Issue](https://github.com/blogger-templates/plus-ui/issues)
 
 </div>
 
@@ -61,7 +61,7 @@ The next major update focuses on stability, advanced monetization, and UX improv
 You can install Plus UI using the standard upload method or the manual HTML method (recommended for a clean install).
 
 ### Option 1: Standard Upload (Easiest)
-1.  Download the latest `.xml` file from the [Releases Section](https://github.com/blogger-templates/Plus-UI-V3.2.0/releases).
+1.  Download the latest `.xml` file from the [Releases Section](https://github.com/blogger-templates/plus-ui/releases).
 2.  Go to **Blogger Dashboard** → **Theme**.
 3.  Click the **▼** arrow next to the "Customize" button.
 4.  Select **Restore** → **Upload**.
@@ -123,7 +123,7 @@ Stay connected for updates, bug fixes, and premium support.
 
 * 📢 **Telegram Channel (Updates):** [t.me/Blogger_Templates_Updated](https://t.me/Blogger_Templates_Updated)
 * 👥 **Telegram Group (Community):** [t.me/Plus_UI_Official](https://t.me/Plus_UI_Official)
-* 🐛 **Report a Bug:** [GitHub Issues](https://github.com/blogger-templates/Plus-UI-V3.2.0/issues)
+* 🐛 **Report a Bug:** [GitHub Issues](https://github.com/blogger-templates/plus-ui/issues)
 
 ---
 
