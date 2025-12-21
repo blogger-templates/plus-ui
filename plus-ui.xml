@@ -5293,7 +5293,7 @@ const PlusUIConfig = () => ({});
 
                         <b:else/>
                         <!--[ Dark mode button ]-->
-                        <button class='tMode tIc tDL show-if-js' expr:aria-label='data:item' onclick='if (PU.ui) PU.ui.tM();' type='button'>
+                        <button class='tMode tIc tDL show-if-js' expr:aria-label='data:item' onclick='if (PU.ui) PU.ui.tT(event);' type='button'>
                           <b:include name='sun-moon-icon'/>
                         </button>
                       </b:if>
