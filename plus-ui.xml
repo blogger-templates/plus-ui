@@ -8229,7 +8229,7 @@ const PlusUIConfig = () => ({});
                   <b:if cond='!data:view.isPost'>
                     <li class='mL'>
                       <b:if cond='!data:amp.active'>
-                        <button class='tDL show-if-js' data-light='Dark' expr:aria-label='data:item' expr:data-text='data:item' onclick='if (PU.ui) PU.ui.tM()' type='button'>
+                        <button class='tDL show-if-js' data-light='Dark' expr:aria-label='data:item' expr:data-text='data:item' onclick='if (PU.ui) PU.ui.tT(event)' type='button'>
                           <b:include name='sun-moon-icon'/>
                         </button>
                       </b:if>
